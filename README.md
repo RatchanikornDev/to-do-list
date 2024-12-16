@@ -50,9 +50,13 @@ The app interacts with a RESTful API to manage tasks.
 
 ## **Project Structure**
 Todo List App
+
 ├── index.html          # Main HTML structure
+
 ├── style.css           # Stylesheet for the application
+
 ├── script.js           # JavaScript logic and API communication
+
 └── README.md           # Project documentation
 
 ---
@@ -98,9 +102,11 @@ Todo List App
 
 ## **Future Improvements**
 
-**•	Add user authentication for personalized task management.
-**•	Categorize tasks for better organization.
-**•	Add a priority feature to sort tasks.
+**•	Add user authentication for personalized task management.**
+
+**•	Categorize tasks for better organization.**
+
+**•	Add a priority feature to sort tasks.**
 
 ---
 
