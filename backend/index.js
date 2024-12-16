@@ -11,17 +11,17 @@ app.use(cors());
 const todos = [
     {
         id: uuid.v4(),
-        name: "Catch Jirachi",
+        name: "Do homework",
         completed: true,
     },
     {
         id: uuid.v4(),
-        name: "Catch Celebi",
+        name: "Clean my room",
         completed: false,
     },
     {
         id: uuid.v4(),
-        name: "Catch Charizard",
+        name: "Do next project!!",
         completed: true,
     },
 ];
